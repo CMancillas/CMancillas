@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRtcm5mbHgzdjRpc2YyemQ3bjhubWtxZnR1ZHgybmx4OGlrZTRoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="80" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRtcm5mbHgzdjRpc2YyemQ3bjhubWtxZnR1ZHgybmx4OGlrZTRoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="70" style="vertical-align: middle; margin-right: 10px;" />
   Hi there! I'm <strong>Carlos Mancillas</strong> — welcome to my page 👋
 </h1>
 
